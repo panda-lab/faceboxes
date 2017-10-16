@@ -3,4 +3,4 @@
 - 提供了一个基于CelebA训练了模型，测试使用。
 - wider face 训练的测试结果 90%左右。
 
-### 优化版会在 https://github.com/zeusees 发布。
+### 优化版在 https://github.com/zeusees/FaceBoxes 发布。
